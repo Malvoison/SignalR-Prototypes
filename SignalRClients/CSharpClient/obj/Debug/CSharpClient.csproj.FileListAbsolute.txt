@@ -1,0 +1,14 @@
+C:\Users\kewatts\Source\Workspaces\CLCS\KenWatts\SignalR Prototypes\SignalRClients\CSharpClient\bin\Debug\CSharpClient.exe.config
+C:\Users\kewatts\Source\Workspaces\CLCS\KenWatts\SignalR Prototypes\SignalRClients\CSharpClient\bin\Debug\CSharpClient.exe
+C:\Users\kewatts\Source\Workspaces\CLCS\KenWatts\SignalR Prototypes\SignalRClients\CSharpClient\bin\Debug\CSharpClient.pdb
+C:\Users\kewatts\Source\Workspaces\CLCS\KenWatts\SignalR Prototypes\SignalRClients\CSharpClient\bin\Debug\IdentityModel.dll
+C:\Users\kewatts\Source\Workspaces\CLCS\KenWatts\SignalR Prototypes\SignalRClients\CSharpClient\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\kewatts\Source\Workspaces\CLCS\KenWatts\SignalR Prototypes\SignalRClients\CSharpClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kewatts\Source\Workspaces\CLCS\KenWatts\SignalR Prototypes\SignalRClients\CSharpClient\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\kewatts\Source\Workspaces\CLCS\KenWatts\SignalR Prototypes\SignalRClients\CSharpClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kewatts\Source\Workspaces\CLCS\KenWatts\SignalR Prototypes\SignalRClients\CSharpClient\obj\Debug\CSharpClient.frmSignalRClient.resources
+C:\Users\kewatts\Source\Workspaces\CLCS\KenWatts\SignalR Prototypes\SignalRClients\CSharpClient\obj\Debug\CSharpClient.Properties.Resources.resources
+C:\Users\kewatts\Source\Workspaces\CLCS\KenWatts\SignalR Prototypes\SignalRClients\CSharpClient\obj\Debug\CSharpClient.csproj.GenerateResource.Cache
+C:\Users\kewatts\Source\Workspaces\CLCS\KenWatts\SignalR Prototypes\SignalRClients\CSharpClient\obj\Debug\CSharpClient.exe
+C:\Users\kewatts\Source\Workspaces\CLCS\KenWatts\SignalR Prototypes\SignalRClients\CSharpClient\obj\Debug\CSharpClient.pdb
+C:\Users\kewatts\Source\Workspaces\CLCS\KenWatts\SignalR Prototypes\SignalRClients\CSharpClient\obj\Debug\CSharpClient.csprojResolveAssemblyReference.cache
